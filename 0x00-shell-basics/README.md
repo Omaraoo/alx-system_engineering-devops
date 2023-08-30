@@ -1,2 +1,2 @@
-#!/bin/bash
-#!/usr/bin/pwd  print working directory
+#!/bin/bash/
+#!/usr/bin/pwd  print working directory/
